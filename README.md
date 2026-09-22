@@ -45,7 +45,7 @@ Dans ce second exercice, vous allez modifier les lignes qui suivent dans le READ
 Noms des étudiants : 
 * Killian CAMBRIN
 * Erwan RAMESAY 
-* Mayleen SINCÈREMENT
+* Mayleen SAINT-CYR
 * Sullivan SAINT-AIME
 
 Date du jour : 22/09/2026
