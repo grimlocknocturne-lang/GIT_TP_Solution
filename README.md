@@ -43,10 +43,11 @@ Pour ajouter des collaborateurs à votre dépôt Github, il vous faut :
 Dans ce second exercice, vous allez modifier les lignes qui suivent dans le README.md et présenter votre équipe ainsi que la date du jour du TP.
 
 Noms des étudiants : 
-* Killian CAMBRIN
 * Erwan RAMESAY 
 * Mayleen SAINT-CYR
 * Sullivan SAINT-AIME
+* Killian CAMBRIN
+
 
 Date du jour : 22/09/2026
 
